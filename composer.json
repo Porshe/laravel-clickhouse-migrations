@@ -1,5 +1,5 @@
 {
-    "name": "Porshe/laravel-clickhouse-migrations",
+    "name": "porshe/laravel-clickhouse-migrations",
     "description": "Clickhouse migrations for Laravel",
     "keywords": [
         "clickhouse",
